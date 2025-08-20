@@ -21,5 +21,8 @@
   "homepage": "https://github.com/zhhr1991/mern-note-app#readme",
   "devDependencies": {
     "@types/cors": "^2.8.19"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
